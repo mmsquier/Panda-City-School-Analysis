@@ -6,5 +6,7 @@ Assignment asks for the analyzis of the district-wide standardized test results.
 
 Analyzis 
 
-Overall, schools with higher budgets, didn't have better test results. Schools with higher spending per student actually under performed compared to schools with smaller budgets. Smaller and medium sized schools dramatically out-performed large sized schools on passing math performances (89-91% passing vs 67%). As a whole, charter schools out-performed the public district schools across all metrics. However, more analysis will be required to glean if the effect is due to school practices or the fact that charter schools tend to serve smaller student populations per school. 
+Overall, schools with higher budgets, didn't have better test results. Schools with higher spending per student actually under performed compared to schools with smaller budgets. Smaller and medium sized schools dramatically out-performed large sized schools on passing math performances (89-91% passing vs 67%). Charter schools out-performed district schools across all metrics.
+
+To better understand the trend further analysis is required to understand the effect of a school practices, student-teacher ratio per school and budget.  Teacher educational level could be analyize to see if it plays a role on the student scoring. 
 
